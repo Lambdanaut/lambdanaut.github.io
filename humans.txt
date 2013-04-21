@@ -1,0 +1,10 @@
+﻿/* AUTHOR */
+	Josh Thomas AKA Lambdanaut 
+	Google +: https://plus.google.com/u/0/116585393952181375154/posts
+	From: Jacksonville, FL
+	Resides In: Wilmington, NC (since 2010)
+
+/* SITE */
+	Language: English
+	Doctype: HTML5
+	Tools: Sublime-text2, VIM, Haskell, Hakyll
