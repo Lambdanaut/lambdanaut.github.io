@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<link rel="icon" type="image/png" href="../images/favicon.png">
+		<title>Lambdanaut - Dog Farts</title>
+		<link rel="stylesheet" href="../css/reset.css" media="all">
+		<link rel="stylesheet" href="../css/grid.css" media="all">
+		<link rel="stylesheet" href="../css/responsive.css" media="all">
+		<link rel="stylesheet" href="../css/main.css" media="all">
+	</head>
+	<body>
+		<header>
+			<div id="logo">
+				<a href="../">L&Lambda;MBDANAUT</a>
+			</div>
+		</header>
+        <nav>
+        </nav>
+		<div id="content_wrapper">
+			<div class="content">
+				<h1>Dog Farts</h1>
+<div class="date_info">Posted on April 30, 2013</div>
+<div class="writing">
+	<p>I saw some really aesthetic and meaningful graffiti on my walk downtown today.</p>
+<p><img src="../images/dogfarts.jpg"></p>
+</div>
+			</div>
+			<footer class="section group">
+				<ul>
+					<li><a href="../contact">Contact</a></li>
+					<li><a href="../meta">About</a></li>
+				</ul>
+				&copy; 2013 Josh Thomas
+			</footer>
+		</div>
+	</body>
+</html>
