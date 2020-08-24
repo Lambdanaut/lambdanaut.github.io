@@ -8,8 +8,26 @@
         <name>Joshua Thomas</name>
         <email>lambdanaut@protonmail.com</email>
     </author>
-    <updated>2020-08-21T00:00:00Z</updated>
+    <updated>2020-08-24T00:00:00Z</updated>
     <entry>
+    <title>A Mastodon Hashtag Boosting Bot</title>
+    <link href="http://lambdanaut.com/posts/2020-08-24-Rebooster-Mastodon-Boosting-Bot.html" />
+    <id>http://lambdanaut.com/posts/2020-08-24-Rebooster-Mastodon-Boosting-Bot.html</id>
+    <published>2020-08-24T00:00:00Z</published>
+    <updated>2020-08-24T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<h1>A Mastodon Hashtag Boosting Bot</h1>
+<div class="date_info">Posted August 24, 2020</div>
+<div class="writing">
+	<p>Over the weekend I dove into the world of <a href="https://mastodonpy.readthedocs.io/en/stable/">Mastodon bot building</a> and came up with a simple customizable script that reads the global Mastodon timeline, listening for new toots tagged with specified hashtags, and retooting them as they show up.</p>
+<p>My use case was to use it to connect with the gamedev community on Mastodon by sharing gamedev content, and I’m very happy with the result.</p>
+<p>##Running it yourself</p>
+<p>If you’d like to use it yourself, clone the <a href="https://github.com/Lambdanaut/Rebooster/">source code from Github</a> and rename the <code>config_example.py</code> file to <code>config.py</code>. Fill that file in with your own account credentials and the tags you wish to retoot, and run the <code>rebooster.py</code> script with Python.</p>
+<p>It’s really that easy.</p>
+<p>You can follow me on Mastodon at <a href="https://mastodon.gamedev.place/">lambdanaut@mastodon.gamedev.place</a></p>
+</div>
+]]></summary>
+</entry>
+<entry>
     <title>A Chat With GPT-3 About Consciousness</title>
     <link href="http://lambdanaut.com/posts/2020-08-21-A-Chat-With-GPT3-About-Philosophy.html" />
     <id>http://lambdanaut.com/posts/2020-08-21-A-Chat-With-GPT3-About-Philosophy.html</id>
