@@ -8,8 +8,27 @@
         <name>Joshua Thomas</name>
         <email>lambdanaut@protonmail.com</email>
     </author>
-    <updated>2020-08-24T00:00:00Z</updated>
+    <updated>2020-09-24T00:00:00Z</updated>
     <entry>
+    <title>Dry Fast Diary Entry</title>
+    <link href="http://lambdanaut.com/posts/2020-09-24-Dry-Fast-1.html" />
+    <id>http://lambdanaut.com/posts/2020-09-24-Dry-Fast-1.html</id>
+    <published>2020-09-24T00:00:00Z</published>
+    <updated>2020-09-24T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<h1>Dry Fast Diary Entry</h1>
+<div class="date_info">Posted September 24, 2020</div>
+<div class="writing">
+	<figure>
+<img src="/images/post-content/fall-leaf.jpg" alt="" /><figcaption>Dis is a leef</figcaption>
+</figure>
+<p>I’m dry fasting. That’s like.. fasting, but dry.. so no food goes in, but ALSO no liquids go in.</p>
+<p>This is maybe my 4th or 5th dry fast. I’m not a husky guy, so I’m not doing them to lose weight. I’ve had long-standing gut problems that are greatly helped by the abstention of food and liquids. My longest go at it so far is 60 hours, just shy of three days.</p>
+<p>I started this fast last night at 10:00PM, and I’m looking to go almost 48 hours with it, so I’ll be having dinner tomorrow night.</p>
+<p>Best of luck! (to my self! )</p>
+</div>
+]]></summary>
+</entry>
+<entry>
     <title>A Mastodon Hashtag Boosting Bot</title>
     <link href="http://lambdanaut.com/posts/2020-08-24-Rebooster-Mastodon-Boosting-Bot.html" />
     <id>http://lambdanaut.com/posts/2020-08-24-Rebooster-Mastodon-Boosting-Bot.html</id>
@@ -437,7 +456,7 @@
 <h2 id="bbys">BBYS</h2>
 <p>So far I’ve completed one full game: <a href="BBYS">https://lambdanaut.itch.io/bbys</a> Check it out! I made it for this year’s ludumdare46 in Pico-8. I really love Pico-8, though I plan to make the switch to Godot in the near future. I’ve also done some stuff in Unity and that’s great, but it has it’s problems. For one, the IDE was far too slow on the large scripts I was writing.</p>
 <figure>
-<img src="/images/game-content/bbysdemo2.gif" alt="" /><figcaption>BBYS-Demo</figcaption>
+<img src="/images/game-content/bbysdemo2.gif" alt="" /><figcaption>BBYS Demo</figcaption>
 </figure>
 <h2 id="pico-wars">Pico Wars</h2>
 <p>I’ve also published a de-make of Nintendo’s Advance Wars called <a href="https://www.lexaloffle.com/bbs/?tid=38084">Pico Wars</a>. Right now the demo is out, though I’m working on a full version that won’t be compatible with the limitations of Lexaloffle’s BBS or Splore feature. Stay tuned for updates on my <a href="https://twitter.com/Lambdanaut">Twitter</a>!</p>
