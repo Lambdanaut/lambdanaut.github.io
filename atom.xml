@@ -8,8 +8,38 @@
         <name>Joshua Thomas</name>
         <email>lambdanaut@protonmail.com</email>
     </author>
-    <updated>2020-12-10T00:00:00Z</updated>
+    <updated>2021-07-19T00:00:00Z</updated>
     <entry>
+    <title>My Life Right Now (Burns, Buns, and Gamedev)</title>
+    <link href="http://lambdanaut.com/posts/2021-07-19-My-Life-Right-Now.html" />
+    <id>http://lambdanaut.com/posts/2021-07-19-My-Life-Right-Now.html</id>
+    <published>2021-07-19T00:00:00Z</published>
+    <updated>2021-07-19T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<h1>My Life Right Now (Burns, Buns, and Gamedev)</h1>
+<div class="date_info">Posted July 19, 2021</div>
+<div class="writing">
+	<p>Hey hey hey!</p>
+<p>Life is shifting fast lately. I’m all “they/them” these days, and getting my own space away from my “primary partner” who is now more of a “just-like-all-my-other-partners” partner. It’s good though. It’s all really good. Going to burns a lot; spinning fire a lot; and I won 3rd place medal in a booty pagent at the last one I went to. Check it, parentals!</p>
+<div style="text-align: center;">
+<img src="/images/post-content/joshua-booty-pagent.jpg" width="700px"/>
+</div>
+<p>Bam. Content. Feeling content.</p>
+<p>Also so much roleplaying this year. I met these hella sweet kids and we roleplay character shit. Fun stuff. Good therapy too. Really got to know myself by being not myself.</p>
+<p>Some of my characters:</p>
+<div style="text-align: center;">
+<p><img src="/images/post-content/lucille-2-332600.png" width="250px" /> <img src="/images/post-content/lucille-8bit.png" width="250px" /> <img src="/images/post-content/lucille-332600.png" width="250px" /> <img src="/images/post-content/lucille-anime.png" width="250px" /> <img src="/images/post-content/lucille-syfy-butterfly.png" width="250px" /> <img src="/images/post-content/marcus-332600.png" width="250px" /> <img src="/images/post-content/markus-8bit.png" width="250px" /> <img src="/images/post-content/dex-lucille-stripperau.png" width="250px" /> <img src="/images/post-content/Olive.png" width="250px" /></p>
+</div>
+<p>Other than that, progress has started back up on my Gamedev project: <a href="https://twitter.com/search?q=%23overworld&src=typed_query">Overworld</a>. Here’s some in-game aesthetics showoff:</p>
+<div style="text-align: center; margin-top: 25px;">
+<embed src="/images/video/overworld-background-tiles.webm" autostart="false" height="360" width="640"></embed>
+</embed>
+<p>It’s a video! Watch it!</p>
+</div>
+<p>Also working on a couple top secret art projects for burns. Super excited to talk about them, but not yet! Soonish for sure.</p>
+</div>
+]]></summary>
+</entry>
+<entry>
     <title>Tears</title>
     <link href="http://lambdanaut.com/posts/2020-12-10-Tears.html" />
     <id>http://lambdanaut.com/posts/2020-12-10-Tears.html</id>
@@ -511,32 +541,6 @@
 </figure>
 <p>APC stands for Armored Personnel Carrier. It <strong>cannot</strong> attack, however you can move a single infantry or mech unit onto it to load them up. The APC can move them much further than they’d otherwise be able to move on their feet.</p>
 <p>The APC can be useful for moving infantrys and mechs long distances early in a match in order to capture more distant properties before the opponent captures them.</p>
-</div>
-]]></summary>
-</entry>
-<entry>
-    <title>Hello World!</title>
-    <link href="http://lambdanaut.com/posts/2020-05-28-Hello-World.html" />
-    <id>http://lambdanaut.com/posts/2020-05-28-Hello-World.html</id>
-    <published>2020-05-28T00:00:00Z</published>
-    <updated>2020-05-28T00:00:00Z</updated>
-    <summary type="html"><![CDATA[<h1>Hello World!</h1>
-<div class="date_info">Posted May 28, 2020</div>
-<div class="writing">
-	<h2 id="blogging">Blogging!</h2>
-<p>Oh boy here I am, bloggin!</p>
-<p>I want to blog here, and share my adventures learning to build games, and then actually building games!</p>
-<p>I’ll be posting and sharing art, music, code, problems, solutions, and general game-dev life.</p>
-<h2 id="bbys">BBYS</h2>
-<p>So far I’ve completed one full game: <a href="BBYS">https://lambdanaut.itch.io/bbys</a> Check it out! I made it for this year’s ludumdare46 in Pico-8. I really love Pico-8, though I plan to make the switch to Godot in the near future. I’ve also done some stuff in Unity and that’s great, but it has it’s problems. For one, the IDE was far too slow on the large scripts I was writing.</p>
-<figure>
-<img src="/images/game-content/bbysdemo2.gif" alt="" /><figcaption>BBYS Demo</figcaption>
-</figure>
-<h2 id="pico-wars">Pico Wars</h2>
-<p>I’ve also published a de-make of Nintendo’s Advance Wars called <a href="https://www.lexaloffle.com/bbs/?tid=38084">Pico Wars</a>. Right now the demo is out, though I’m working on a full version that won’t be compatible with the limitations of Lexaloffle’s BBS or Splore feature. Stay tuned for updates on my <a href="https://twitter.com/Lambdanaut">Twitter</a>!</p>
-<figure>
-<img src="/images/game-content/picowars_10.gif" alt="" /><figcaption>Picowars demo</figcaption>
-</figure>
 </div>
 ]]></summary>
 </entry>
