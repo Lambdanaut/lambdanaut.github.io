@@ -20,7 +20,7 @@
 	</head>
 	<body>
 		<header>
-			<div id="logo">
+			<div id="logo" class="rainbow-text-shadow">
 				<a href="./index.html">L&Lambda;MBDANAUT</a>
 			</div>
 		</header>
@@ -31,7 +31,7 @@
     <img id="eyeclops-teal" src="./images/eyeclops_teal.gif" onmouseover="document.getElementById('eyeclops-teal-thought').style.display='flex';" onmouseout="document.getElementById('eyeclops-teal-thought').style.display='none';" />
     <img id="eyeclops-pink" src="./images/eyeclops_pink.gif" onmouseover="document.getElementById('eyeclops-pink-thought').style.display='flex';" onmouseout="document.getElementById('eyeclops-pink-thought').style.display='none';" />
     <img id="eyeclops-blue" src="./images/eyeclops_blue.gif" onmouseover="document.getElementById('eyeclops-blue-thought').style.display='flex';" onmouseout="document.getElementById('eyeclops-blue-thought').style.display='none';" />
-    <img id="eyeclops-orange" src="./images/eyeclops_orange.png" onmouseover="document.getElementById('eyeclops-orange-thought').style.display='flex';" onmouseout="document.getElementById('eyeclops-orange-thought').style.display='none';" />
+    <img id="eyeclops-orange" src="./images/eyeclops_orange.gif" onmouseover="document.getElementById('eyeclops-orange-thought').style.display='flex';" onmouseout="document.getElementById('eyeclops-orange-thought').style.display='none';" />
     <div class="thought-container" style="position: relative; ">
         <div id="eyeclops-teal-thought" class="thought" style="color: teal; bottom: 50px; left: 75px;">I'm going to get fit for coach blog-reader!</div>
         <div id="eyeclops-pink-thought" class="thought" style="color: pink; bottom: 50px; left: 155px;">I hope senpai blog-reader notices me...</div>
@@ -68,6 +68,10 @@
         <h2>I Write</h2>
 
         <ul>
+    
+        <li>
+            <a href="./posts/2022-08-17-Gamedev-Retrospective.html">Gamedev Retrospective</a> - August 17, 2022
+        </li>
     
         <li>
             <a href="./posts/2021-07-19-My-Life-Right-Now.html">My Life Right Now (Burns, Buns, and Gamedev)</a> - July 19, 2021
@@ -115,14 +119,14 @@
     
 </ul>
 
-        <p>…or you can find more in the <a href="./archive.html">archives</a>.
+        <p>…or you can find more in the <a href="./archive.html">archives</a>.<a href="./archive.html"><img src="./images/catlove_200%.gif" style="margin-left: 0.5em; vertical-align: middle;" /></a></p>
     </div>
 </div>
 <a rel="me" style="display: none;" href="https://mastodon.gamedev.place/@Lambdanaut">Mastodon</a>
 
 			</div>
 			<footer class="section group">
-				&copy; 2020 Lambdanaut
+				&copy; <script>document.write( new Date().getFullYear() );</script> Lambdanaut
 				<p>Blog made with ♥ in Haskell using <a href="https://jaspervdj.be/hakyll/">Hakyll</a></p>
 				<ul>
 					<li><a href="./atom.xml">Feed</a></li>
