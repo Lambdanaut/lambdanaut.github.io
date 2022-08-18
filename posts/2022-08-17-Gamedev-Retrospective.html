@@ -17,6 +17,17 @@
 
 		  gtag('config', 'UA-31412504-2');
 		</script>
+		<script>
+			// Determine a random character to display in the footer scene
+			const _possibleUrls = [
+				'',
+				'<img src="/images/player-standing.gif" alt="playa1" style="float:right; margin-top: 119px;"/>',
+				'<img src="/images/gma-at-desk.gif" alt="gma selling grimee" style="float:right; margin-top: 117px;"/>',
+				'<img src="/images/infantry-in-grass.gif" alt="infantry in tall grass" style="float:right; margin-top: 127px;"/>',
+			];
+			const _randomIndex = Math.floor(Math.random() * _possibleUrls.length);
+			const randomFooterSceneImage = _possibleUrls[_randomIndex];
+		</script>
 	</head>
 	<body>
 		<header>
@@ -44,7 +55,8 @@
 
 			<div style="margin-right: 50px">
 			    <img src="../images/house-animated.gif" alt="home sweet hom	e" style="float:right; vertical-align: top; margin-top: 1px;" />
-			    <img src="../images/player-standing.gif" alt="playa1" style="float:right; margin-top: 119px;" />
+			    <script>document.write(randomFooterSceneImage);</script>
+			    <noscript><img src="../images/player-standing.gif" alt="playa1" style="float:right; margin-top: 119px;" /></noscript>
 			    <img src="../images/overworld-foliage.png" class="hide-on-mobile" alt="foliage" style="float:right; vertical-align: top; margin-top: 125px;" />
 			    <img src="../images/overworld-foliage-2.png" class="hide-on-mobile" alt="foliage" style="float:right; vertical-align: top; margin-top: 125px;" />
 			</div>
