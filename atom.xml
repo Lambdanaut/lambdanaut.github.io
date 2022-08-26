@@ -8,8 +8,83 @@
         <name>Joshua Quirk</name>
         <email>lambdanaut@protonmail.com</email>
     </author>
-    <updated>2022-08-17T00:00:00Z</updated>
+    <updated>2022-08-25T00:00:00Z</updated>
     <entry>
+    <title>Paradox - Minijam 113 Entry</title>
+    <link href="http://lambdanaut.com/posts/2022-08-25-My-Minijam-113-Entry.html" />
+    <id>http://lambdanaut.com/posts/2022-08-25-My-Minijam-113-Entry.html</id>
+    <published>2022-08-25T00:00:00Z</published>
+    <updated>2022-08-25T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<h1 class="rainbow-text-shadow">Paradox - Minijam 113 Entry</h1>
+<div class="date_info">Posted August 25, 2022</div>
+<div class="writing">
+	<p><img src="/images/footer-paradox.gif" style="vertical-align: bottom; margin-right: 1em;" /> There’s a new sneaki boi in the bushes and its name is <em>Charnel Fontaine</em></p>
+<p>It likes typing on terminals, inventing evil super intelligences, and pushing big <img src="/images/post-content/paradox-head.png" style="vertical-align: bottom;"/> pink <img src="/images/post-content/paradox-head.png" style="vertical-align: bottom;" /> heads <img src="/images/post-content/paradox-head.png" style="vertical-align: bottom;" /> around on the floor to solve puzzles.</p>
+<p><br /></p>
+<div class="center">
+Sometimes it gets lonely, so it travels through time to hang out with its past self.
+</div>
+<div class="center">
+This is the story of <em>Charnel Fontaine</em>
+</div>
+<h2 id="or-more-like-its-the-story-of-me">or more like it’s the story of me</h2>
+<p>It’s been 6 days since day one of <a href="https://itch.io/jam/mini-jam-113-final-boss">Minijam 113</a>, and after all six of those days, I am now able to announce:</p>
+<br />
+<div class="center">
+🌈✨🎉👯‍♀️🥳 <strong>yes, it <em>does</em> seem that I have made a game</strong> 🥳👯🎉✨🌈
+</div>
+<h2 id="so-what-was-that-like">So what was <em>that</em> like?</h2>
+<p>I mean it’s my 3rd published game now.</p>
+<p>So it was pretty rad!</p>
+<p>The biggest difference between getting through this game jam, and getting through my first Ludum Dare, was that I moved much, <em>much</em> faster. There were a few reasons. To a degree, there were assets from past projects that I could re-use, like the dialogue system. At this point, I’ve re-used the same dialogue system for my last three games, though it’s changed wildly between Picowars and Overworld because it was a change from Lua -&gt; GDscript, but still.. it’s the same code, just translated.</p>
+<p>But more importantly than the reusable assets, was the fact that I just knew what I was doing. That big bad <a href="https://godotengine.org/">Godot</a> interface just isn’t as spooky as it once was, and to be fair it was <em>never</em> as spooky as <em>Unity’s</em> interface once was 🤮</p>
+<p>Godot feels like home now. And I feel productive in it.</p>
+<h2 id="but-this-jam-must-have-presented-some-challenges-rite">But this jam must have presented some challenges rite</h2>
+<p>ye thts rite.</p>
+<p>Half the time I was staring at my screen hating everything I saw, and the other half of the time I was really excited and thinking “<strong>oh wow.. maybe this has some kind of potential!</strong>”</p>
+<p>Granted every time I thought that, I’d shortly after rescind the statement.</p>
+<p>Puzzle design is tough, and every time I’d think I had a puzzle that was somewhat cool, I would realize that it’s actually pretty:</p>
+<ul>
+<li>Stale</li>
+<li>Unintuitive</li>
+<li>and Mechanical</li>
+</ul>
+<p>The first few puzzles I made have been entirely thrown out, and I actually <strong>REALLY LIKED</strong> them at some point too!</p>
+<p>Like, I shared one of them on social media.</p>
+<iframe src="https://mastodon.gamedev.place/@Lambdanaut/108858748506309030/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen">
+</iframe>
+<script src="https://mastodon.gamedev.place/embed.js" async="async"></script>
+<p>When I finished that level, I thought it was <strong><em>so sly</em></strong> and that I was going to save it for the final level, but…</p>
+<p>After making a few other levels, I started to learn my own game better, and learn what made fun puzzles, and what made shitty ones.</p>
+<p>Here’s what’s wrong with each room of that level above that makes it a bad level:</p>
+<ul>
+<li>From the very beginning, it relied on pressing the red and green buttons a seemingly random number of times to get them just right so that you’d be able to progress to the next room. I thought this was good level design because it was hard. In reality it was bad because of <em>why</em> it was hard.</li>
+<li>The second room that you progress to has 6 buttons, and it’s a <em>little</em> better than the first room, but it’s still bad. The idea of this room is to press the buttons in the right combination to let you safely walk through the gates of the next hallway when your dolleganger comes to copy your button-presses. It’s bad because once again you’re relying too much on timing, and measuring where your doppleganger will be at any point in time is hard, and not in a fun way. It’s hard to know exactly when you start pressing the buttons to open up the hallway.</li>
+<li>The final hallway is a repeat of the second.</li>
+</ul>
+<p>Beyond the design of each individual room, the level as an integrated whole is just <em>boring</em>.</p>
+<p>I made this level right before I realized the intrigue of <em>backtracking</em>.</p>
+<h2 id="backtracking">Backtracking</h2>
+<p>As an example of a level that heavily utilizes backtracking:</p>
+<p><img src="/images/post-content/paradox-backtracking-example.png" alt="screenshot of a level in Paradox with signifiant backtracking" /></p>
+<p>Every room in this level(other than the final room) is interacted with more than once. Heads are shuffled between rooms, and backtracking is needed to accomplish things in other rooms that you previously couldn’t.</p>
+<p>It’s weird to implement backtracking as a mechanic in a game in which nothing but the last 8 moves are significant, but it works surprisingly well, even though the implementation can be very tedious.</p>
+<h2 id="whats-next">What’s Next?</h2>
+<p><strong>I’m going to finish this fucking game</strong></p>
+<p>It’s probably another week of dev out from a version 1.0.0, but we’ll get there! I’ve had Overworld on hiatus for this project, and honestly I’m itching to get back to it. I’ve put so much work into that game.. and there’s a lot more work left.. but I like where it’s headed.</p>
+<p>I’ll post here the results from the minijam ratings. I think there’s a good chance of taking a second or third place!</p>
+<h2 id="paradox-version-0.2.6---demo-for-minijam-113">Paradox Version 0.2.6 - Demo for Minijam 113</h2>
+<div class="center">
+Wanna Play? <br />This is the original build for <a href="https://itch.io/jam/mini-jam-113-final-boss">Minijam 113</a>.
+</div>
+<div class="center">
+<p><iframe src="/games/paradox-demo-1/index.html" width=640 height=360></iframe></p>
+<p>(pst.. for a more not <span class="rainbow-text-loop">old-as-fuck</span> build, play the game on <a href="https://lambdanaut.itch.io/paradox" class="rainbow-text-loop">ITCH.IO</a> 🛹 )</p>
+</div>
+</div>
+]]></summary>
+</entry>
+<entry>
     <title>Surrealism of Writing Into the Void</title>
     <link href="http://lambdanaut.com/posts/2022-08-17-Surrealism-of-Writing-Into-the-Void.html" />
     <id>http://lambdanaut.com/posts/2022-08-17-Surrealism-of-Writing-Into-the-Void.html</id>
@@ -489,75 +564,6 @@
 <p>You can play the demo right here in your browser.</p>
 <p>Click anywhere in the world and the little dudes will find a way to get there:</p>
 <p><iframe src="/games/side-track/side-track.html" width=720 height=360></iframe></p>
-</div>
-]]></summary>
-</entry>
-<entry>
-    <title>How To Play Picowars</title>
-    <link href="http://lambdanaut.com/posts/2020-06-25-How-To-Play-Picowars.html" />
-    <id>http://lambdanaut.com/posts/2020-06-25-How-To-Play-Picowars.html</id>
-    <published>2020-06-25T00:00:00Z</published>
-    <updated>2020-06-25T00:00:00Z</updated>
-    <summary type="html"><![CDATA[<h1 class="rainbow-text-shadow">How To Play Picowars</h1>
-<div class="date_info">Posted June 25, 2020</div>
-<div class="writing">
-	<div style="text-align:center;">
-<p><a href="https://lambdanaut.itch.io/picowars"><img src="/images/game-content/picowars-coverimage-transparent.png" alt="Picowars Cover Image" /></a></p>
-<p>Play the full game <a href="https://lambdanaut.itch.io/picowars">HERE</a></p>
-</div>
-<h2 id="whats-that">What’s that!</h2>
-<p>Picowars is an 8bit homage to one of the greatest Nintendo games of all time. Advance Wars. That may just be my opinion, but it’s the right one.</p>
-<p>Picowars is a turn-based strategy game where the objective is to build up an army from your bases in order to capture more properties on the map and eventually capture the opposing player’s headquarters.</p>
-<p><br /></p>
-<div style="text-align:center;">
-<img src="/images/game-content/picowars-alecia-vs-slydy.gif" title="fig:" alt="Gameplay GIF" />
-</div>
-<h2 id="new-to-the-franchise">New to the franchise?</h2>
-<h3 id="controls">Controls</h3>
-<p>Move your cursor with the arrow keys, select with <strong>Z</strong> and deselect with <strong>X</strong></p>
-<h3 id="enemys-hq">Enemy’s HQ</h3>
-<figure>
-<img src="/images/post-content/picowars-enemy-hq.png" alt="" /><figcaption>Enemy’s HQ</figcaption>
-</figure>
-<p>This is your target. You want to move your infantry and mechs onto this property and capture it. You do that, and you win.</p>
-<h3 id="your-hq">Your HQ</h3>
-<figure>
-<img src="/images/post-content/picowars-friendly-hq.png" alt="" /><figcaption>Your HQ</figcaption>
-</figure>
-<p>And this is <em>your</em> HQ. Keep the opposing player away from it. If they capture it, it’s game over.</p>
-<h3 id="bases">Bases</h3>
-<figure>
-<img src="/images/post-content/picowars-base.png" alt="" /><figcaption>Your Base</figcaption>
-</figure>
-<p>This is one of your bases. This is where you build your army, and it’s the first thing you want to select when the game begins. Move your cursor over it and click <strong>Z</strong> to open up the build menu. There you can build any unit that you can afford with your current gold.</p>
-<h3 id="neutral-properties">Neutral properties</h3>
-<figure>
-<img src="/images/post-content/picowars-neutral-property.png" alt="" /><figcaption>Neutral Property</figcaption>
-</figure>
-<p>This is a neutral city. Right now it’s not doing anything for anyone, but if you move an infantry or mech onto this tile and capture it, it’ll change to your team’s colors and provide <strong>1</strong> gold for you per turn. Every property you own, including bases and your HQ generate <strong>1</strong> gold per turn, so the more you have the better.</p>
-<p>A property has 20 capture points. Each turn you can capture once, and the amount of capture points that is deducted is equal to the amount of hp the capturing unit has. Each unit starts out with 10hp, so optimally it’ll take 2 turns to capture a property. If a unit has 1hp, it’ll take 20 turns. Yeesh.</p>
-<p>Cities also heal any unit standing on them for 2hp per turn. In fact, all properties heal by 2hp, so keep that in mind when a unit is damaged and needs to retreat.</p>
-<h3 id="the-info-bar">The Info Bar</h3>
-<figure>
-<img src="/images/post-content/picowars-info-bar.png" alt="" /><figcaption>Infobar</figcaption>
-</figure>
-<p>This is where you can see information about the selected tile. Each tile has a defense rating that you can see by the number of stars next to the tile. This base has <strong>3</strong> stars next to it so it’s a pretty beefy defensive posture. If your unit is attacked from this tile, they’ll take less damage.</p>
-<h3 id="infantry-and-mechs">Infantry and Mechs</h3>
-<p><img src="/images/post-content/picowars-infantry.png" alt="Infantry" /> <img src="/images/post-content/picowars-mech.png" alt="Mech" /></p>
-<p>And these guys? These are the most basic units of your army. Infantry and Mechs. They don’t always do as much damage as the bigger boys, but they have the special ability of being the only units that can capture properties.</p>
-<h3 id="terrain-mobility">Terrain Mobility</h3>
-<p><img src="/images/post-content/picowars-terrain-mntn.png" alt="Mountain terrain" /> <img src="/images/post-content/picowars-terrain-river.png" alt="River terrain" /></p>
-<p>Of note, only infantry and mechs can traverse rivers and mountains, and they’re slowed quite a bit from it! All terrain types affect units differently. It’s up to you to figure out which units are affected by terrain and by how much.</p>
-<h3 id="ranged-units">Ranged Units</h3>
-<p><img src="/images/post-content/picowars-artillery.png" alt="Artillery unit" /> <img src="/images/post-content/picowars-rockets.png" alt="Rockets unit" /></p>
-<p>These units are special. Rockets and Artillery. They can’t attack up close, as they’re ranged units. They attack from multiple tiles away from their target. They also cannot move and attack in the same turn, so place them strategically where you expect the enemy to walk into their range.</p>
-<p>You can check their range by holding down <strong>X</strong> while your cursor is over them.</p>
-<h3 id="the-apc-unit">The APC Unit</h3>
-<figure>
-<img src="/images/post-content/picowars-apc.png" alt="" /><figcaption>APC unit</figcaption>
-</figure>
-<p>APC stands for Armored Personnel Carrier. It <strong>cannot</strong> attack, however you can move a single infantry or mech unit onto it to load them up. The APC can move them much further than they’d otherwise be able to move on their feet.</p>
-<p>The APC can be useful for moving infantrys and mechs long distances early in a match in order to capture more distant properties before the opponent captures them.</p>
 </div>
 ]]></summary>
 </entry>
