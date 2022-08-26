@@ -104,8 +104,8 @@ Wanna Play? <br />This is the original build for <a href="https://itch.io/jam/mi
 <p>Maybe it’s hard for me to accept that anyone would actually like anything that I create. Even though I seem to consistently be proven wrong on that notion, it still surprises me every time.</p>
 <p>Speaking of people liking something I’ve made, I put a short clip on social media(which I for the most part have successfully avoided for the majority of the last year), and… people seemed to like it. Enough for it to go viral. I mean my social media followers have more than doubled from that one post.</p>
 <p>It was this one btw:</p>
-<embed src="/images/video/2022-8-17-overworld-spider-chase.webm" autostart="false" height="360" width="640"></embed>
-</embed>
+<video src="/images/video/2022-8-17-overworld-spider-chase.webm" height="360" width="640" controls autoplay loop></video>
+</video>
 <p>So that happened!</p>
 <p>But I do gain value out of blogging. Personal value. I mean, writing in a way that sorta ignores my audience. If you guys get value out of what I’m saying too then that’s great but,</p>
 <p>Pandering doesn’t feel right to me.</p>
@@ -141,8 +141,8 @@ Wanna Play? <br />This is the original build for <a href="https://itch.io/jam/mi
 </div>
 <p>Other than that, progress has started back up on my Gamedev project: <a href="https://twitter.com/search?q=%23overworld&src=typed_query">Overworld</a>. Here’s some in-game aesthetics showoff:</p>
 <div style="text-align: center; margin-top: 25px;">
-<embed src="/images/video/overworld-background-tiles.webm" autostart="false" height="360" width="640"></embed>
-</embed>
+<video src="/images/video/overworld-background-tiles.webm" height="360" width="640" controls></video>
+</video>
 <p>It’s a video! Watch it!</p>
 </div>
 <p>Also working on a couple top secret art projects for burns. Super excited to talk about them, but not yet! Soonish for sure.</p>
