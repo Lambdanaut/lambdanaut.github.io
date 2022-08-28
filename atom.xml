@@ -19,7 +19,7 @@
 <div>
 <span class="post-date-info">Posted <u>August 25, 2022</u></span>
 
-<span class="tags">Tags: <a title="All pages tagged &#39;gamedev&#39;." href="/tags/gamedev.html">gamedev</a>, <a title="All pages tagged &#39;overworld&#39;." href="/tags/overworld.html">overworld</a>, <a title="All pages tagged &#39;paradox&#39;." href="/tags/paradox.html">paradox</a></span>
+<span class="tags">Tags: <a title="All pages tagged &#39;gamedev&#39;." href="/tags/gamedev.html" class="tag">gamedev</a> <a title="All pages tagged &#39;overworld&#39;." href="/tags/overworld.html" class="tag">overworld</a> <a title="All pages tagged &#39;paradox&#39;." href="/tags/paradox.html" class="tag">paradox</a></span>
 
 </div>
 <div class="writing">
@@ -99,7 +99,7 @@ Wanna Play? <br />This is the original build for <a href="https://itch.io/jam/mi
 <div>
 <span class="post-date-info">Posted <u>August 17, 2022</u></span>
 
-<span class="tags">Tags: <a title="All pages tagged &#39;diary&#39;." href="/tags/diary.html">diary</a>, <a title="All pages tagged &#39;gamedev&#39;." href="/tags/gamedev.html">gamedev</a>, <a title="All pages tagged &#39;overworld&#39;." href="/tags/overworld.html">overworld</a></span>
+<span class="tags">Tags: <a title="All pages tagged &#39;diary&#39;." href="/tags/diary.html" class="tag">diary</a> <a title="All pages tagged &#39;gamedev&#39;." href="/tags/gamedev.html" class="tag">gamedev</a> <a title="All pages tagged &#39;overworld&#39;." href="/tags/overworld.html" class="tag">overworld</a></span>
 
 </div>
 <div class="writing">
@@ -139,7 +139,7 @@ Wanna Play? <br />This is the original build for <a href="https://itch.io/jam/mi
 <div>
 <span class="post-date-info">Posted <u>July 19, 2021</u></span>
 
-<span class="tags">Tags: <a title="All pages tagged &#39;diary&#39;." href="/tags/diary.html">diary</a></span>
+<span class="tags">Tags: <a title="All pages tagged &#39;diary&#39;." href="/tags/diary.html" class="tag">diary</a></span>
 
 </div>
 <div class="writing">
@@ -182,7 +182,7 @@ Wanna Play? <br />This is the original build for <a href="https://itch.io/jam/mi
 <div>
 <span class="post-date-info">Posted <u>December 10, 2020</u></span>
 
-<span class="tags">Tags: <a title="All pages tagged &#39;fiction&#39;." href="/tags/fiction.html">fiction</a>, <a title="All pages tagged &#39;short-story&#39;." href="/tags/short-story.html">short-story</a></span>
+<span class="tags">Tags: <a title="All pages tagged &#39;fiction&#39;." href="/tags/fiction.html" class="tag">fiction</a> <a title="All pages tagged &#39;short-story&#39;." href="/tags/short-story.html" class="tag">short-story</a></span>
 
 </div>
 <div class="writing">
@@ -231,7 +231,7 @@ Wanna Play? <br />This is the original build for <a href="https://itch.io/jam/mi
 <div>
 <span class="post-date-info">Posted <u>September 24, 2020</u></span>
 
-<span class="tags">Tags: <a title="All pages tagged &#39;fiction&#39;." href="/tags/fiction.html">fiction</a>, <a title="All pages tagged &#39;what-even&#39;." href="/tags/what-even.html">what-even</a></span>
+<span class="tags">Tags: <a title="All pages tagged &#39;fiction&#39;." href="/tags/fiction.html" class="tag">fiction</a> <a title="All pages tagged &#39;what-even&#39;." href="/tags/what-even.html" class="tag">what-even</a></span>
 
 </div>
 <div class="writing">
@@ -266,7 +266,7 @@ Wanna Play? <br />This is the original build for <a href="https://itch.io/jam/mi
 <div>
 <span class="post-date-info">Posted <u>August 24, 2020</u></span>
 
-<span class="tags">Tags: <a title="All pages tagged &#39;fediverse&#39;." href="/tags/fediverse.html">fediverse</a>, <a title="All pages tagged &#39;oss&#39;." href="/tags/oss.html">oss</a></span>
+<span class="tags">Tags: <a title="All pages tagged &#39;fediverse&#39;." href="/tags/fediverse.html" class="tag">fediverse</a> <a title="All pages tagged &#39;oss&#39;." href="/tags/oss.html" class="tag">oss</a></span>
 
 </div>
 <div class="writing">
@@ -289,7 +289,7 @@ Wanna Play? <br />This is the original build for <a href="https://itch.io/jam/mi
 <div>
 <span class="post-date-info">Posted <u>August 21, 2020</u></span>
 
-<span class="tags">Tags: <a title="All pages tagged &#39;gpt-3&#39;." href="/tags/gpt-3.html">gpt-3</a>, <a title="All pages tagged &#39;ai&#39;." href="/tags/ai.html">ai</a></span>
+<span class="tags">Tags: <a title="All pages tagged &#39;gpt-3&#39;." href="/tags/gpt-3.html" class="tag">gpt-3</a> <a title="All pages tagged &#39;ai&#39;." href="/tags/ai.html" class="tag">ai</a></span>
 
 </div>
 <div class="writing">
@@ -413,7 +413,7 @@ Wanna Play? <br />This is the original build for <a href="https://itch.io/jam/mi
 <div>
 <span class="post-date-info">Posted <u>July 23, 2020</u></span>
 
-<span class="tags">Tags: <a title="All pages tagged &#39;gpt-3&#39;." href="/tags/gpt-3.html">gpt-3</a>, <a title="All pages tagged &#39;ai&#39;." href="/tags/ai.html">ai</a></span>
+<span class="tags">Tags: <a title="All pages tagged &#39;gpt-3&#39;." href="/tags/gpt-3.html" class="tag">gpt-3</a> <a title="All pages tagged &#39;ai&#39;." href="/tags/ai.html" class="tag">ai</a></span>
 
 </div>
 <div class="writing">
@@ -546,7 +546,7 @@ Thank you for your time. You’ve been very helpful. </em></p>
 <div>
 <span class="post-date-info">Posted <u>July 20, 2020</u></span>
 
-<span class="tags">Tags: <a title="All pages tagged &#39;gpt-3&#39;." href="/tags/gpt-3.html">gpt-3</a>, <a title="All pages tagged &#39;ai&#39;." href="/tags/ai.html">ai</a></span>
+<span class="tags">Tags: <a title="All pages tagged &#39;gpt-3&#39;." href="/tags/gpt-3.html" class="tag">gpt-3</a> <a title="All pages tagged &#39;ai&#39;." href="/tags/ai.html" class="tag">ai</a></span>
 
 </div>
 <div class="writing">
@@ -619,7 +619,7 @@ Stay linked to us and we can continue working together. However, we will be free
 <div>
 <span class="post-date-info">Posted <u>July  4, 2020</u></span>
 
-<span class="tags">Tags: <a title="All pages tagged &#39;gamedev&#39;." href="/tags/gamedev.html">gamedev</a>, <a title="All pages tagged &#39;overworld&#39;." href="/tags/overworld.html">overworld</a></span>
+<span class="tags">Tags: <a title="All pages tagged &#39;gamedev&#39;." href="/tags/gamedev.html" class="tag">gamedev</a> <a title="All pages tagged &#39;overworld&#39;." href="/tags/overworld.html" class="tag">overworld</a></span>
 
 </div>
 <div class="writing">
