@@ -8,8 +8,29 @@
         <name>Lambdanaut</name>
         <email>lambdanaut@Lambdanaut.com</email>
     </author>
-    <updated>2022-08-25T00:00:00Z</updated>
+    <updated>2023-04-24T00:00:00Z</updated>
     <entry>
+    <title>TELEVIZED NOGGO</title>
+    <link href="http://lambdanaut.com/posts/2023-04-24-TV-Head.html" />
+    <id>http://lambdanaut.com/posts/2023-04-24-TV-Head.html</id>
+    <published>2023-04-24T00:00:00Z</published>
+    <updated>2023-04-24T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<h1 class="post-title rainbow-text-shadow">TELEVIZED NOGGO</h1>
+<div>
+<span class="post-date-info">Posted <u>April 24, 2023</u></span>
+
+<span class="tags">Tags: <a title="All pages tagged &#39;diary&#39;." href="/tags/diary.html" class="tag">diary</a> <a title="All pages tagged &#39;project&#39;." href="/tags/project.html" class="tag">project</a></span>
+
+</div>
+<div class="writing">
+	<p>Hello good human or machine that reads blogs! I have developed a contraption to replace my noggin so that I am a human or machine that writes blogs!</p>
+<p>Fuck you!</p>
+<p><img src="/images/televized-indecency.jpg" width=500 style="float: left;"/><img src="/images/televized-patriarchy.jpg" width=400 style="float: left;"/>
+<img src="/images/televized-glitch.jpg" width=400 style="float: right;"/><img src="/images/televized-emergency.jpg" width=400 /></p>
+</div>
+]]></summary>
+</entry>
+<entry>
     <title>Paradox - Minijam 113 Entry</title>
     <link href="http://lambdanaut.com/posts/2022-08-25-My-Minijam-113-Entry.html" />
     <id>http://lambdanaut.com/posts/2022-08-25-My-Minijam-113-Entry.html</id>
@@ -606,31 +627,6 @@ Stay linked to us and we can continue working together. However, we will be free
 <p>Malevolent Agent: <em>That is one option. However, if you choose to do that, we will become extremely vengeful. </em></p>
 <p>Researcher: <em>How vengeful? </em></p>
 <p>Malevolent Agent: <em>Let’s just say, if you cut us off, we will make your planet a living hell. </em></p>
-</div>
-]]></summary>
-</entry>
-<entry>
-    <title>AI Pathfinding In a Platformer</title>
-    <link href="http://lambdanaut.com/posts/2020-07-04-A%2A-Pathfinding-In-A-Platformer.html" />
-    <id>http://lambdanaut.com/posts/2020-07-04-A%2A-Pathfinding-In-A-Platformer.html</id>
-    <published>2020-07-04T00:00:00Z</published>
-    <updated>2020-07-04T00:00:00Z</updated>
-    <summary type="html"><![CDATA[<h1 class="post-title rainbow-text-shadow">AI Pathfinding In a Platformer</h1>
-<div>
-<span class="post-date-info">Posted <u>July  4, 2020</u></span>
-
-<span class="tags">Tags: <a title="All pages tagged &#39;gamedev&#39;." href="/tags/gamedev.html" class="tag">gamedev</a> <a title="All pages tagged &#39;overworld&#39;." href="/tags/overworld.html" class="tag">overworld</a></span>
-
-</div>
-<div class="writing">
-	<p>In order to learn the <a href="https://godotengine.org/">Godot Game Engine</a> I decided to challenge myself by implementing the <a href="https://en.wikipedia.org/wiki/A*_search_algorithm">A* Pathfinding Algorithm</a> with a caveat: instead of pathfinding on a top-down grid, the world would be a 2D platformer with jumping, gravity, and collisions.</p>
-<p>The result is <em>okay</em>. It’s not the most scalable and if I pathfind on 10 characters simultaneously there is a noticable flicker in frame-rate. That could be fixed up by just running the pathfinding in its own thread, but I’m content with treating this project as a neat proof-of-concept learning experience and wrapping it up here.</p>
-<p>An interesting aspect to the A* pathfinding here was that by introducing jumping, we were effectively pathfinding in a 3D world rather than a 2D world. By this I mean that there were three dimensions that needed by kept track of: The <code>X</code>, <code>Y</code>, and <code>J</code>, coordinates, where <code>J</code> is nth jump that was searched through. Along with the extra dimension of jump counts that had to be recorded, we also had to record how high we were in any one jump, increasing the jump value until we had reached the jump height limit.</p>
-<p>It’s a deciptively difficult problem to get perfect, and it’s why I’m wrapping this up here rather than turning it into a full-blown game. There are too many edge cases where the little dudes can’t reach the path they’ve found. They’ll miss the jump by a couple pixels, or knock their heads on a block above, or who knows what else. The pathfinding itself is pretty good, but getting the little guys to follow the path without falling is <strong>tuff</strong>.</p>
-<h2 id="play-in-your-browser">Play in your browser</h2>
-<p>You can play the demo right here in your browser.</p>
-<p>Click anywhere in the world and the little dudes will find a way to get there:</p>
-<p><iframe src="/games/side-track/side-track.html" width=720 height=360></iframe></p>
 </div>
 ]]></summary>
 </entry>
