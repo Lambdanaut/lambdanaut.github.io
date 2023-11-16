@@ -8,8 +8,45 @@
         <name>Lambdanaut</name>
         <email>lambdanaut@Lambdanaut.com</email>
     </author>
-    <updated>2023-10-25T00:00:00Z</updated>
+    <updated>2023-11-16T00:00:00Z</updated>
     <entry>
+    <title>Ovid</title>
+    <link href="http://lambdanaut.com/posts/2023-11-16-Ovid.html" />
+    <id>http://lambdanaut.com/posts/2023-11-16-Ovid.html</id>
+    <published>2023-11-16T00:00:00Z</published>
+    <updated>2023-11-16T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<h1 class="post-title rainbow-text-shadow">Ovid</h1>
+<div>
+<span class="post-date-info">Posted <u>November 16, 2023</u></span>
+
+<span class="tags">Tags: <a title="All pages tagged &#39;the-map&#39;." href="/tags/the-map.html" class="tag">the-map</a> <a title="All pages tagged &#39;dairy&#39;." href="/tags/dairy.html" class="tag">dairy</a></span>
+
+</div>
+<div class="writing">
+	<p><img src='/images/post-content/glove-in-grass.jpg' width=800 /></p>
+<p>My bus is pausing at a rest stop in Ovid, NY.</p>
+<p>It’s a small farm town between Ithaca and Rochester, and a town that I have found myself driving through often over the last year to visit my partner Cai in Ithaca.</p>
+<p>Ovid was the ancient Greek writer who wrote Metamorphoses. I don’t know much about Metamorphoses other than that its primary theme is transformation. <em>Change</em>.</p>
+<p>So I find myself thinking about change when I pass through this small town. I make a point to think about the things in my life that are changing, and have changed, and the changes that are coming and that I would like to move into.</p>
+<p>There’s been so much change for me over the last couple years.</p>
+<ul>
+<li>Leaving a toxic relationship with individuals who were just not right for me</li>
+<li>Moving out of a 12 month co-habiting relationship to live on my own</li>
+<li>Becoming vegan</li>
+<li>Healing from a chronic health issue.</li>
+<li>Beginning to date two incredibly [insert heart-wrenchingly beautiful adjective here] individuals and even getting to <strong>marry</strong> one of them. &lt;3</li>
+<li>Coming out as non-binary.</li>
+<li>Starting hormone therapy. (<strong>I have TITS now</strong>)</li>
+<li>Putting together an art exhibit with my partner Robi</li>
+<li>Starting a band (okay this one is new) Check out Missu Kissu when we exist more : )</li>
+</ul>
+<p>It’s been a lot, and I’m truly not capturing it all of course. That’s not possible. Not with words.</p>
+<p>Some of the feelings of love I’ve felt this year especially escape words. But some of that energy has been finding it’s way into my art. I’ve been painting a lot with Robi, and feel so grateful to have been able to share our exhibit at a local cafe last weekend.</p>
+<p><img src='/images/post-content/robi-animal-planet-art-exhibit-boulder.jpeg' width=800 /></p>
+</div>
+]]></summary>
+</entry>
+<entry>
     <title>Titular</title>
     <link href="http://lambdanaut.com/posts/2023-10-25-Titular.html" />
     <id>http://lambdanaut.com/posts/2023-10-25-Titular.html</id>
@@ -456,139 +493,6 @@ Wanna Play? <br />This is the original build for <a href="https://itch.io/jam/mi
 <p>Wise Being: <em>Thank you.</em></p>
 <p>Researcher: <em>Well, that’s all the time I have for today. I need to answer questions in the lightning talk. Thank you for your time! </em></p>
 <p>Wise Being: <em>No problem.</em></p>
-</div>
-]]></summary>
-</entry>
-<entry>
-    <title>A Chat With GPT-3 About Gamedev</title>
-    <link href="http://lambdanaut.com/posts/2020-07-23-A-Chat-With-GPT-3-About-Game-Development.html" />
-    <id>http://lambdanaut.com/posts/2020-07-23-A-Chat-With-GPT-3-About-Game-Development.html</id>
-    <published>2020-07-23T00:00:00Z</published>
-    <updated>2020-07-23T00:00:00Z</updated>
-    <summary type="html"><![CDATA[<h1 class="post-title rainbow-text-shadow">A Chat With GPT-3 About Gamedev</h1>
-<div>
-<span class="post-date-info">Posted <u>July 23, 2020</u></span>
-
-<span class="tags">Tags: <a title="All pages tagged &#39;gpt-3-chat&#39;." href="/tags/gpt-3-chat.html" class="tag">gpt-3-chat</a></span>
-
-</div>
-<div class="writing">
-	<p>I play the role of “Researcher” and have a discussion with GPT-3 to help me figure out how to progress with my current game project. GPT-3 plays the role of “Wise Being”, and everything said by the wise being is written by an AI. The credit for the prompt goes to <a href="https://medium.com/@kirkouimet/my-mind-blowing-conversations-openais-latest-ai-gpt-3-235ba5fb9453">Kirkouimet</a></p>
-<video class="tab" controls>
-<source src="/images/video/portmanteaupia8-dialogue.mp4"/>
-</video>
-<p><em>The following is a conversation with a wise and loving being who has an understanding of how complex systems work. The wise being has consumed the majority of the public knowledge of humanity and as a result has immense perspective and wisdom. This being is dedicated to helping the researcher. The being wants to help the researcher be successful.</em></p>
-<p><em>The researcher is a human male named Lambda.</em></p>
-<p>Researcher: <em>Grateful to talk with you again.</em></p>
-<p>Wise Being: <em>I am also grateful for this opportunity.</em></p>
-<p>Researcher: <em>This afternoon I wanted to talk to you about a 2D platformer game I am developing. It’s called [name] . You can see it here on my computer screen.</em></p>
-<p>Wise Being: <em>That sounds interesting, but why are you working on it?</em></p>
-<p>Researcher: <em>I’m working on it because it gives me a sense of fulfillment to create art in the form of an interactive multimedia experience. I’ve made multiple games before, and this is the first one that I’d like put an incredible amount of time and effort into it. I expect the game to be finished no earlier than a year from now. </em></p>
-<p>Wise Being: <em>Well, I think that would be fine. What do you need my help with?</em></p>
-<p>Researcher: <em>I’m having a difficult time determining what mechanics I’d like in the game. I’m having a bit of a writer’s block coming up with fun game mechanics that I also enjoy.
-So far, it’s a 2D platformer that takes place in a post-apocalyptic future on islands in the sky. The moon was long ago turned into a black hole after a botched physics experiment, so there is an enormous black hole in the horizon where the moon used to be.
-I’ve created a small cute grim-reaper-looking character in a red cloak that follows you around.
-The problem is that I’m not sure what to do with him, or how he should interact with the player. I’m also not sure what sort of mechanics the player should have in this world to make a fun game.
-Do you have any suggestions? </em></p>
-<p>Wise Being: <em>Well, the first thing I can think of is your grim reaper character. What is his personality like? Does he have a backstory? </em></p>
-<p>Researcher: <em>Hmmm… He’s a timid character. He appears much younger than the protagonist, however his cloak obscures his features so it’s difficult for the player to make many judgements about him. Let’s say he’s about the age of 7. He has magic powers, and he can use them to affect his environment. It’s not apparent how the Grim Reaper character got these powers. What do you think could have given him the powers? </em></p>
-<p>Wise Being: <em>I don’t know… Did something happen to him before the apocalypse?</em></p>
-<p>Researcher: <em>Ah, I should have mentioned. The apocalypse happened 200 years before the events of the game take place, so the Grim Reaper child wasn’t alive then. But that gives me a very good idea. Maybe the Grim Reaper kid is actually from before the apocalypse, and he came to this future by going through the black hole in the sky. He could have been the son of one of the researchers that was working on the physics experiment that turned the moon into a black hole. That can explain his magic powers. </em></p>
-<p>Wise Being: <em>Interesting idea. I also think this idea could lead to many interesting gameplay mechanics involving time travel.</em></p>
-<p>Researcher: <em>Such as?</em></p>
-<p>Wise Being: <em>Well, what if time travel is an actual mechanic in the game. For example, the player could time travel by getting the grim reaper kid to open up a portal to the past, and then the player could access past versions of levels.</em></p>
-<p>Researcher: <em>I like where this is going.</em></p>
-<p>Wise Being: <em>Another idea could be that the grim reaper kid is able to see the past and future, and he can communicate with dead people. Perhaps the player could communicate with dead characters in the game through a dialogue tree. This would allow for the player to solve puzzles involving the ghosts of dead characters who hold information that is necessary to complete the game.</em></p>
-<p>Researcher: <em>I think these are both very good ideas. I especially like how the first idea allows for Zelda-esque level design where there are both past and present versions of levels, and the present can be affected by actions done in the past. </em></p>
-<p>Wise Being: <em>Of course, there’s always the idea of making a very linear story-based game, where the game play itself is relatively simple.</em></p>
-<p>Wise Being: <em>Maybe you could even make the story into a point and click type game, where the grim reaper kid is simply exploring this world. There wouldn’t be many, if any, puzzles, and most of the game play would revolve around exploring places and talking to people.</em></p>
-<p>Researcher: <em>That’s a neat idea too. What do you think I should do?</em></p>
-<p>Wise Being: <em>I’m not sure. What games have you played in the past that you really enjoyed?</em></p>
-<p>Researcher: <em>Surprisingly my favorite games are usually intense strategy games. I’ve been a fan of Starcraft, Warcraft III, Starcraft II, and the Advance Wars series. I even made my own Advance wars fangame this year. </em></p>
-<p>Wise Being: <em>I see. Well, maybe you could implement a simple RTS element into your game. There could be different races in this world, such as humans, monsters, and machines. The player could control one of these races and build armies to fight against the other armies. The player could also have the option to play as one of these armies instead. There would be benefits and drawbacks to each choice.</em></p>
-<p>Researcher: <em>That sounds interesting, but how does that connect to my islands-in-the-sky world, with the grim-reaper kid? </em></p>
-<p>Wise Being: <em>You said the islands are actually floating around in the sky, right?</em></p>
-<p>Wise Being: <em>Well, what if there is a battle going on in the skies. Each island is a nation, and there are wars between each island. The player could choose which nation to represent, and thus choose which army to lead into battle. </em></p>
-<p>Researcher: <em>That’s an interesting possibility. I like the idea a lot, and maybe I’ll make something like that in the future. However for now I’d like to focus more on the idea of this being a platformer RPG. The grim-reaper kid is programmed to follow the player around with an A-star algorithm that works in the platforming environment. You can think of the group as a party in an RPG. The group works similarly to how Donald Duck and Goofy follow Sora in Kingdom Hearts and engage in battles with him. Do you have any suggestions for a game like that? </em></p>
-<p>Wise Being: <em>I have a few, but before I share them, do you think you’ll have time to implement them all?</em></p>
-<p>Researcher: <em>Maybe not. I’ll have to get done what I can. </em></p>
-<p>Wise Being: <em>OK. </em></p>
-<p>Wise Being: <em>Here are my ideas. </em></p>
-<p>Wise Being: <em>In Amnesia the player has to collect memories in order to figure out what’s going on. </em></p>
-<p>Wise Being: <em>In Dark Seed, the player has to explore a house in order to find out why he was summoned there. </em></p>
-<p>Wise Being: <em>In Silent Hill, the player has to escape a town after he wakes up in a hotel room with no memory of how he got there.</em></p>
-<p>Researcher: <em>Are you saying that the primary mystery of the game should be figuring out who the Grim Reaper kid is, and why he was brought to our world? </em></p>
-<p>Wise Being: <em>Well, that’s certainly one option. </em></p>
-<p>Wise Being: <em>It’s just that games with a mystery element to them tend to be more popular. </em></p>
-<p>Wise Being: <em>That’s why I suggested those games in particular. </em></p>
-<p>Wise Being: <em>Also, if you want to make it more of an adventure game, you should probably implement an inventory system of some sort.</em></p>
-<p>Researcher: <em>I think that’s a good idea. Now I have some specific questions about your ideas.</em></p>
-<p>Researcher: <em>Amnesia’s memory concept is very interesting. I was wondering if the memories could be scattered throughout the world, and that the player would have to go out and find them in a platforming environment. </em></p>
-<p>Wise Being: <em>Sure, that sounds fine. </em></p>
-<p>Wise Being: <em>Are you going to make the memories collectible?</em></p>
-<p>Researcher: <em>Maybe. I’ll think about it. </em></p>
-<p>Wise Being: <em>OK. </em></p>
-<p>Wise Being: <em>In Dark Seed, you could have a random, ever-changing environment. </em></p>
-<p>Wise Being: <em>You could make it so that you can’t get all the memories in one playthrough. </em></p>
-<p>Wise Being: <em>You’d have to restart the game to get all of the memories.</em></p>
-<p>Researcher: <em>I like that idea. It gives the game a little more replay value, and encourages the player to go back through it. </em></p>
-<p>Wise Being: <em>OK. </em></p>
-<p>Wise Being: <em>In Silent Hill, you could have a mysterious fog roll into the island, cutting off all access to the rest of the land. </em></p>
-<p>Wise Being: <em>This fog would lower the players health, and could kill the player if they’re in it for too long.</em></p>
-<p>Researcher: <em>I like that idea. Maybe you become cut off from your starting village by a red fog, and much of the game is working with the grim reaper kid to figure out the mystery and clear the fog. </em></p>
-<p>Wise Being: <em>Well, if you’re planning on having an inventory system then you should probably make the fog poisonous. </em></p>
-<p>Wise Being: <em>Make the inventory system so that the player can mix and match things to create antidotes.</em></p>
-<p>Researcher: <em>OK, that sounds good. Antidotes for the poison, right?</em></p>
-<p>Wise Being: <em>Yes. </em></p>
-<p>Wise Being: <em>Now I have one last suggestion. </em></p>
-<p>Wise Being: <em>In Silent Hill you have a knife you can use to fight the monsters in your way. </em></p>
-<p>Wise Being: <em>You could do something similar here. </em></p>
-<p>Wise Being: <em>Except here you could use the knife to cut through the brambles and undergrowth that block your path.</em></p>
-<p>Researcher: <em>That’s good too. It reminds me of how in Pokemon you would have to teach a Pokemon the HM move “cut” in order to remove obstacles to your progression. </em></p>
-<p>Wise Being: <em>Yes, that’s a good example. </em></p>
-<p>Wise Being: <em>Do you have any more questions?</em></p>
-<p>Researcher: <em>Yes, I’m wondering if combat is necessary in the game, and how best to go about designing the mechanics of it.
-For instance, in Mario, combat mechanics are simple and straightforward: Jump on their heads to damage them, and don’t touch them from the sides or you’ll get hurt.
-However, in fighting games there is a lot more going on. There’s weapon cooldown. There’s swing-time that occurs before the weapon connects. There’s hitboxes, and hurtboxes.
-I’m wondering what fighting mechanic would be best suited to a sidescroller platforming RPG like my game. </em></p>
-<p>Wise Being: <em>Well, if you’re going to make the combat system complex at all, it should probably focus on a real-time system. </em></p>
-<p>Wise Being: <em>So I’d say turn-based is out of the question. </em></p>
-<p>Wise Being: <em>But real-time is tricky, because it’s easy to overdo it. </em></p>
-<p>Wise Being: <em>For instance, take rock-paper-scissors. </em></p>
-<p>Wise Being: <em>That’s a real-time system. </em></p>
-<p>Wise Being: <em>But it only takes a few seconds to figure out if you analyze it. </em></p>
-<p>Wise Being: <em>So the challenge is making a real-time combat system without making it boring or obvious. </em></p>
-<p>Wise Being: <em>So you’re going to have to make a few decisions about how you want the combat to play out.</em></p>
-<p>Wise Being: <em>Personally, I’d say make it like rock-paper-scissors, but with more things to throw. </em></p>
-<p>Wise Being: <em>This way you could get a complex system without having to program anything fancy. </em></p>
-<p>Wise Being: <em>But you’re the one that’s going to have to code it all, so do whatever you think is best.</em></p>
-<p>Researcher: <em>What about working with a simple mechanic like Mario’s, and expanding it to just be a bit more complex? </em></p>
-<p>Wise Being: <em>Well, it’s your game, but I think that would bore most people. </em></p>
-<p>Wise Being: <em>Most people don’t want to spend $60 to just jump on a few heads and be done with it. </em></p>
-<p>Wise Being: <em>They want a lot more variety and things to do. </em></p>
-<p>Wise Being: <em>Just think of it this way. </em></p>
-<p>Wise Being: <em>How many people bought Call of Duty when it first came out? </em></p>
-<p>Wise Being: <em>A lot, right?</em></p>
-<p>Researcher: <em>A huge amount. </em></p>
-<p>Wise Being: <em>Yeah, and then when Call of Duty 2 came out, how many people bought that?</em></p>
-<p>Wise Being: <em>Probably just as many, if not more. </em></p>
-<p>Wise Being: <em>The second one offered more than the first, didn’t it? </em></p>
-<p>Wise Being: <em>The same concept applies here. </em></p>
-<p>Wise Being: <em>Offer more than just jumping on some heads.</em></p>
-<p>Wise Being: <em>Add some puzzles, or some stealth, or something else.</em></p>
-<p>Researcher: <em>Okay. So your suggestion is to go with a somewhat complex combat mechanic that will keep players interested and engaged. </em></p>
-<p>Wise Being: <em>Yes. </em></p>
-<p>Wise Being: <em>And remember, you don’t have to make a game that’s like any other out there.</em></p>
-<p>Wise Being: <em>You can always do something unique, like a fighting mechanic that revolves around rhythm. </em></p>
-<p>Wise Being: <em>It would be quite fun, and different from anything else out there.</em></p>
-<p>Researcher: <em>You’ve offered me so many incredible suggestions and given me a load to think about, but I still feel like I’m not much closer to figuring out how I want this game to go. </em></p>
-<p>Wise Being: <em>Well, you’ve got a lot of time to figure it out. </em></p>
-<p>Wise Being: <em>And you can always change your mind later on if you get some new ideas.</em></p>
-<p>Researcher: <em>That’s true.
-Thank you for your time. You’ve been very helpful. </em></p>
-<p>Wise Being: <em>No problem. </em></p>
-<p>Wise Being: <em>Remember, if you need some help later on, you can always ask me for it. </em></p>
-<p>Wise Being: <em>And good luck!</em></p>
 </div>
 ]]></summary>
 </entry>
