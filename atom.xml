@@ -6,7 +6,9 @@
     <id>http://lambdanaut.com/atom.xml</id>
     <author>
         <name>Lambdanaut</name>
+        
         <email>lambdanaut@Lambdanaut.com</email>
+        
     </author>
     <updated>2024-01-07T00:00:00Z</updated>
     <entry>
