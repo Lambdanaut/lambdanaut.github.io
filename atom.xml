@@ -249,6 +249,8 @@ Wanna Play? <br />This is the original build for <a href="https://itch.io/jam/mi
 <p>You can play the demo right here in your browser.</p>
 <p>Click anywhere in the world and the little dudes will find a way to get there:</p>
 <p><iframe src="/games/side-track/side-track.html" width=720 height=360></iframe></p>
+<h2 id="update">2025 UPDATE</h2>
+<p>The code for this has since been re-written in Rust, communicating with Godot via gdnative. It’s drastically more performant, and capable of more impressive pathfinding than this version, but I’m leaving this version up for posterity.</p>
 </div>
 ]]></summary>
 </entry>
